@@ -1,0 +1,128 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/5d01f71e26eed99ca0a65e6cb459e7d087f87355fcba5e69b246c702932fc2bd851664a370c99a7122a9fa370b0a82b1dc135f6e7802cc7aecfdbf_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1030px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 280px;
+  background-image: none;
+  min-height: 79px;
+  height: auto;
+  margin: 28px auto 0;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Coda Caption ExtraBold";
+  margin: 0 20px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  text-transform: uppercase;
+  font-size: 2.25rem;
+  margin: 368px 28px 0 auto;
+  padding: 6px 59px;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: none;
+  text-transform: uppercase;
+  font-size: 1.875rem;
+  font-weight: 700;
+  margin: -52px auto 0 92px;
+  padding: 12px 57px 14px 56px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 849px;
+  }
+
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 650px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 184px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 136px;
+    margin-left: 89px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 596px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 54px;
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 606px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 204px;
+    min-height: 58px;
+    margin-top: 76px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-right: 33px;
+    margin-left: 50px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 59px;
+    margin-right: -17px;
+    padding: 0 44px 0 43px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    font-size: 1.25rem;
+    padding-right: 33px;
+    padding-left: 33px;
+    margin: 68px auto 7px 0;
+  }
+}

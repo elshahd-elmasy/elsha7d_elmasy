@@ -1,0 +1,91 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("images/706c19c15e3be625ae9bcacfae52de54175d8304e8c13a8814b967829973a147e2168ed15c434fc53a82f89261b02a0da78fb42e9af8022c9e073b_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 745px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Coda Caption ExtraBold";
+  margin: 79px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: "Coda Caption ExtraBold";
+  margin: 20px 0 0 -50px;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: "Coda Caption ExtraBold";
+  margin-left: -50px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-4 {
+  font-family: "Coda Caption ExtraBold";
+  margin-left: -50px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-5 {
+  font-family: "Coda Caption ExtraBold";
+  margin-left: -50px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  margin: 37px auto 55px;
+  padding: 0 76px 0 74px;
+}
+
+.u-section-1 .u-icon-1 {
+  font-size: 3.6876em;
+  margin-left: 0;
+  vertical-align: 0px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 973px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 745px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 559px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 352px;
+  }
+}
